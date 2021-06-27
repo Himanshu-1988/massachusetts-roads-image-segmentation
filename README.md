@@ -36,6 +36,6 @@ we could train for more epochs based upon time and GPU confirmation
 we will perform the evaluation on the validation images provided to us 
 
 10.Visualize results on the validation image 
-![Screenshot](output1.jpg)
-![Screenshot](output2.jpg)
+![Alt text](output1.jpg?raw=true "Title")
+![alt text](https://github.com/[Himanshu-1988]/[massachusetts-roads-image-segmentation]/blob/[main]/image.jpg?raw=true)
 ![Screenshot](output3.jpg)
