@@ -37,6 +37,6 @@ we will perform the evaluation on the validation images provided to us
 
 10.Visualize results on the validation image 
 
-Image---------------------------------Mask----------------------------Predicted
+-----Image----------------------------Mask----------------------------Predicted-------
 
 ![Screenshot](output.JPG)
