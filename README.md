@@ -37,5 +37,5 @@ we will perform the evaluation on the validation images provided to us
 
 10.Visualize results on the validation image 
 ![Alt text](output1.jpg?raw=true "Title")
-![alt text](https://github.com/[Himanshu-1988]/[massachusetts-roads-image-segmentation]/blob/[main]/image.jpg?raw=true)
+![alt text](https://github.com/[Himanshu-1988]/[massachusetts-roads-image-segmentation]/blob/[main]/output2.jpg?raw=true)
 ![Screenshot](output3.jpg)
