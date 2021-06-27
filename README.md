@@ -35,7 +35,7 @@ we could train for more epochs based upon time and GPU confirmation
 
 9.Evaluation 
 we will perform the evaluation on the validation images provided to us 
-evaluation results : loss: 0.1153 - iou: 0.4430 - mean_io_u_1: 0.4713 - dice_coef: 0.6099 - precision: 0.8453
+  * evaluation results : loss: 0.1153 - iou: 0.4430 - mean_io_u_1: 0.4713 - dice_coef: 0.6099 - precision: 0.8453
 
 10.Visualize results on the validation image 
 
