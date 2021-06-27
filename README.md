@@ -1,5 +1,6 @@
 # massachusetts-roads-image-segmentation
-
+Problem : to find features from the image dataset
+Approach :
 1.Downloading data from Kaggle
 
 for downloading data from Kaggle either we can download it from the website or use kaggle.json to connect to Kaggle. once connected we can download the zip file
