@@ -36,5 +36,6 @@ we could train for more epochs based upon time and GPU confirmation
 we will perform the evaluation on the validation images provided to us 
 
 10.Visualize results on the validation image 
-![Screenshot](output1.JPG)
+
 ![Screenshot](output3.JPG)
+![Screenshot](output1.JPG)
